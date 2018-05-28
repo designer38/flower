@@ -1,5 +1,5 @@
 html {
-    overflow-y: scroll; /* Remove This Line */
+    overflow-y: scroll; 
     -webkit-font-smoothing: antialiased;
 }
 body{
